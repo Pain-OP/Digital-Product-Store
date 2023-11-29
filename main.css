@@ -1,0 +1,58 @@
+.font2{
+    font-family: 'Arimo', sans-serif;
+}
+
+
+.btns{
+    background-color: rgb(28, 27, 27);
+    color: white;
+}
+
+.btns:hover{
+    background-color: #c50a3f;
+    color: white;
+}
+
+.text:hover{
+    color: #c50a3f;
+}
+
+.mshadow{
+    box-shadow: 14px 16px 0px;
+}
+
+.bor{
+    border-radius: 20px 20px;
+}
+
+.hover:hover{
+    color: #c50a3f;
+    border: #c50a3f;
+    transition: 0.5s;
+}
+
+.but:hover{
+    background-color: rgb(28, 27, 27);
+    color: white;
+}
+
+.borderdark{
+    border-radius: 10px; border: 2px solid;
+    
+}
+
+.borderdark:hover{
+    border-radius: 10px; border: 2px solid;
+    box-shadow: 8px 8px 0px ;
+    transition: 0.5s;
+}
+
+.darkblue{
+    background-color: #241f33;
+    color: white;
+}
+
+.btnse:hover{
+    background-color: #c50a3f;
+    color: white;
+}
